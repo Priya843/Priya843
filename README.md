@@ -8,12 +8,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1605829592/11401/among-us-dance.gif?1605829592" width="30"/> Hi there ✌️.</h1> 
 
 - 🔭 I’m currently student
+- 🐍 learning Python 
 
 
-<h3>Things I code with</h3>
 >
 
-<h3>Where to find me</h3>
 
 
 </body>
