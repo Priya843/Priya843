@@ -7,7 +7,7 @@
 <body>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1605829592/11401/among-us-dance.gif?1605829592" width="30"/> Hi there ✌️.</h1> 
 
-- 👋 Hello there ,This is @Priya843
+- 👋 Hello there , I'm @Priya843
 - 👩‍💻 Student of Computer Science and Engineering
 - 🖥 Things i can code with : Python , Javascript , HTML/CSS .
   
