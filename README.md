@@ -10,6 +10,8 @@
 - 👋 Hello there , I'm @Priya843
 - 👩‍💻 Student of Computer Science and Engineering
 - 🖥 Things i can code with : Python , Javascript , HTML/CSS .
+- 📩 You can find me on priiyaa2003@gmail.com
+- 📍 Bangalore Urban , India 
   
 
 
