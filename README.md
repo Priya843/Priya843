@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **priiyaa2003@gmail.com**
 
-- 🌱 I’m currently learning **Machine Learning, and Deep Learning.**
-
 <p align="left">
 <a href="https://github.com/Priya843">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Priya843&show_icons=true&locale=en&layout=compact" alt="Priya843" />
