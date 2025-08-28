@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Priya843&label=Profile%20views&color=0e75b6&style=flat" alt="Priya843" /> </p>
 
-<h4 align="left">I have a dream to become a data science engineer.<br>I want to develop myself by following the path of my dreams.<br> I always try to learn new things, especially if it is related to the field of Computer Science and Engineering.</h4>
+
 
 - 📫 How to reach me **priiyaa2003@gmail.com**
 
