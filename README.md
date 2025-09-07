@@ -4,7 +4,7 @@
 
 <h4 align="left">Computer Science Graduate, with a strong interest in problem-solving and enhancing my logical skills. Recently, I have developed a keen interest in LLM, Machine Learning, and Computer Vision.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Priya843&label=Profile%20views&color=0e75b6&style=flat" alt="Priya843" /> </p>
+
 
 
 
